@@ -1,0 +1,1 @@
+Do śledzonych zostaly dodane pszystkie pliki nieignorowane, ponieważ tak działa git add . i .gitignore .
